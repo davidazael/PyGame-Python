@@ -1,0 +1,20 @@
+	
+What is python?
+	Python is open source
+	Very powerful
+	Platform independent 
+	Also super fast and readable.
+
+What is python used for?
+	Web App Development
+	Game Development
+	Database Interfaces
+	Scientific/Statistical Analysis
+
+Who uses it 
+	Education/Acadamia
+	Professional Enterprise
+	
+Python is what type of language?
+	Progamin or scripting? 
+	Both are correct.

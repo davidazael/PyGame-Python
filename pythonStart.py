@@ -19,8 +19,7 @@ gameDisplay = pygame.display.set_mode((display_width ,display_height))
 pygame.display.set_caption('Evade Game')
 clock = pygame.time.Clock()
 
-#call images
-backGround = pygame.image.load('galaxy.jpg')     
+backGround = pygame.image.load('galaxy.jpg')                    #call images
 spaceImg = pygame.image.load('spaceShip1.png')
 meteor2 = pygame.image.load('meteor2.png')
 
